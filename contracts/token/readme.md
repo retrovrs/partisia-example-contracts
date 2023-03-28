@@ -1,0 +1,3 @@
+https://testnet.partisiablockchain.com/info/contract/02b55a56f7dbb7aa4b895c9cc7240588a74ebdabba
+
+https://testnet.partisiablockchain.com/info/contract/02c14c29b2697f3c983ada0ee7fac83f8a937e2ecd
